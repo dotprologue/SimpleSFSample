@@ -4,7 +4,7 @@
 
 To run example:
 
-+ Open `SimpleSFSample/SampleScene`
++ Open `SimpleSFSample/SimpleSFSampleScene`
 + Make sure that the scenario script `Quiz` is attached to the `ScenarioScript` property in the `ObjectBuilder` object
     + There are the three available scripts in the `SimpleSFSample/Stories` folder, `Quiz(SFText)`, `Quiz(Composite)`, `Quiz_Alt(SFText)` by default. You can attach another one instead
 + Enter the play mode
