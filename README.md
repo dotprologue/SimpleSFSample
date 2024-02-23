@@ -14,8 +14,4 @@ To run example:
 
 All the scripts in `SimpleSFSample` are published under the MIT license, so you can use them freely as long as you follow the license. However, the use of the images used in the sample, for example, images of Sheena, Rio, and other UIs, is permitted only for private use intended for learning purposes or citation.
 
-![](./Movies/Example1.gif)
-
-![](./Movies/Example2.gif)
-
-![](./Movies/Example3.gif)
+![](./Movies/Scene.gif)
